@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "astriaporta:block/base_gate_block"
+		}
+	}
+}

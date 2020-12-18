@@ -1,0 +1,20 @@
+{
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 3,
+			"entries": [
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "astriaporta:base_gate_block"
+				},
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "astriaporta:chevron_gate_block"
+				}
+			]
+		}
+	]
+}
