@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="MIT"
+issueTrackerURL="http://my.issue.tracker/"
+[[mods]]
+modId="astriaporta"
+version="${file.jarVersion}"
+displayName="Astria Porta"
+# A URL to query for updates for this mod. See the JSON update specification <here>
+updateJSONURL="http://myurl.me/"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/astria-porta-sg"
+logoFile="astriaporta.png"
+authors="AzureDoomC"
+description='''
+This is a mod based off the MGM/StudioCanal series/movie of Stargate. This mod will be an ever growing mod so more content will always be added!
+'''
+[[dependencies.astriaporta]]
+    modId="geckolib3"
+    mandatory=true
+    versionRange="[3.0.0,)"
+    ordering="BEFORE"
+    side="BOTH"
